@@ -24,15 +24,25 @@ git push origin main      # (로컬저장소에서 커밋된 사항을 팀 레�
 ## 레포지토리 구조
 ```
 Dlthon_01_Motocycle_Night_Ride
+│
 ├── data(폴더, .gitignore 파일에 의해 무시됩니다.)
+│   │
 │   ├── imagess(폴더, 각자의 로컬에 학습데이터 이미지들이 png파일로 들어있을 것입니다.)
+│   │
 │   ├── COCO_motorcycle (pixel).json
+│   │
 │   └── www.acmeai.tech ODataset 1 - Motorcycle Night Ride Dataset
+│
 ├── jong-ha(폴더)
+│
 ├── mu-lim(폴더)
+│
 ├── hang-ah(폴더)
+│
 ├── aa-in(폴더)
+│
 ├── final_work(최종 산출물 파일 폴더)
+│
 ├── .python-version
 ├── .gitignore
 └── README.md

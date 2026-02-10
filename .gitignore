@@ -1,0 +1,32 @@
+# # 용량이 크거나 다른 이유로 깃허브 저장소에 해당 파일 또는 폴더를 제외하고 싶을 때 사용하시면 됩니다.
+# # 파일은 확장자를 분류에 맞게 입력해주시고, 폴더인 경우 폴더명 뒤에 /를 붙여주시면 됩니다.
+
+# Data & Models (용량이 크므로로)
+data/
+*.zip
+*.tar.gz
+*.pth
+*.h5
+*.weights
+*.pkl
+*.png
+
+# Python 캐시 및 환경
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Jupyter Notebook 캐시
+.ipynb_checkpoints
+
+# OS 및 에디터 설정
+.DS_Store
+.vscode/
+.idea/
+
+# uv 환경
+.toml

@@ -27,7 +27,7 @@ Dlthon_01_Motocycle_Night_Ride
 │
 ├── data(폴더, .gitignore 파일에 의해 무시됩니다.)
 │   │
-│   ├── imagess(폴더, 각자의 로컬에 학습데이터 이미지들이 png파일로 들어있을 것입니다.)
+│   ├── imagess(폴더, 각자의 로컬에 학습데이터 이미지들이 png파일로 들어있어야 합니다.)
 │   │
 │   ├── COCO_motorcycle (pixel).json
 │   │

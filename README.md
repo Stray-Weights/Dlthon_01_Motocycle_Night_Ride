@@ -25,11 +25,13 @@ Dlthon_01_Motocycle_Night_Ride
 │   ├── imagess(폴더, 각자의 로컬에 학습데이터 이미지들이 png파일로 들어있을 것입니다.)
 │   ├── COCO_motorcycle (pixel).json
 │   └── www.acmeai.tech ODataset 1 - Motorcycle Night Ride Dataset
-├── jongha(폴더)
-├── mulim(폴더)
-├── hangah(폴더)
-├── aain(폴더)
+├── jong-ha(폴더)
+├── mu-lim(폴더)
+├── hang-ah(폴더)
+├── aa-in(폴더)
 ├── final_work(최종 산출물 파일 폴더)
+├── .python-version
+├── .gitignore
 └── README.md
 ```
 

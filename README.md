@@ -1,6 +1,6 @@
 # Dlthon_01_Motocycle_Night_Ride
 ---
-## 레포지토리 사용법
+## 방황하는 가중치 팀 레포지토리 사용법
 1. 귀하께서 현재 사용중인 개발환경의 터미널을 이용하여 레포지토리를 받을 폴더로 진입해주세요.
 2. `git clone https://github.com/Stray-Weights/Dlthon_01_Motocycle_Night_Ride` 를 입력하여 레포지토리 폴더를 받아주세요.
 3. 레포지토리 폴더가 받아지면 터미널에서 `cd Dlthon_01_Motocycle_Night_Ride` 를 입력하여 레포지토리 폴더 내부로 들어가신 후 개발해주시면 됩니다. (셀에서 작업하시거나 터미널 종류에 따라 %cd, "./경로" 등 입력코드가 바뀔 수 있으므로 문제가 있을시 ai에 물어보시면 좋습니다.)
@@ -32,4 +32,6 @@ Dlthon_01_Motocycle_Night_Ride
 ├── final_work(최종 산출물 파일 폴더)
 └── README.md
 ```
+
+# 화이팅
 

@@ -45,7 +45,9 @@ Dlthon_01_Motocycle_Night_Ride
 ├── final_work(최종 산출물 파일 폴더)
 │
 ├── .python-version
+│
 ├── .gitignore
+│
 └── README.md
 ```
 

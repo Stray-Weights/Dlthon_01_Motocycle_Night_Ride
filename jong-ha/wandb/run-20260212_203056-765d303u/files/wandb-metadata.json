@@ -1,0 +1,40 @@
+{
+  "os": "Windows-11-10.0.26200-SP0",
+  "python": "CPython 3.12.9",
+  "startedAt": "2026-02-12T11:30:56.716989Z",
+  "program": "c:\\Users\\ADMIN\\Documents\\projects\\team\\Dlthon_01_Motocycle_Night_Ride\\jong-ha\\resnet50_baseline.ipynb",
+  "codePath": "c:\\Users\\ADMIN\\Documents\\projects\\team\\Dlthon_01_Motocycle_Night_Ride\\jong-ha\\resnet50_baseline.ipynb",
+  "codePathLocal": "resnet50_baseline.ipynb",
+  "git": {
+    "remote": "https://github.com/Stray-Weights/Dlthon_01_Motocycle_Night_Ride.git",
+    "commit": "e9ba2b94c01d79b07d95849c73e8798911d46bc7"
+  },
+  "email": "kimjongha611@gmail.com",
+  "root": "c:\\Users\\ADMIN\\Documents\\projects\\team\\Dlthon_01_Motocycle_Night_Ride\\jong-ha",
+  "host": "D1000BK",
+  "executable": "c:\\Users\\ADMIN\\Documents\\projects\\team\\Dlthon_01_Motocycle_Night_Ride\\.venv\\Scripts\\python.exe",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce RTX 4070 SUPER",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1023177388032",
+      "used": "988783779840"
+    }
+  },
+  "memory": {
+    "total": "33934004224"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4070 SUPER",
+      "memoryTotal": "12878610432",
+      "cudaCores": 7168,
+      "architecture": "Ada",
+      "uuid": "GPU-91a6ce49-4b88-0aaa-c595-01c560f8eedf"
+    }
+  ],
+  "cudaVersion": "13.1",
+  "writerId": "ogn480t7wpy7r84mzm7pvov3jd2vkko0"
+}
